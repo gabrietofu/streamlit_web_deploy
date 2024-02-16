@@ -1,6 +1,6 @@
 import streamlit as st
 view = [100,150,30]
-st.write('# Changed View_version2')
+st.write('# Changed View_version3_jeonghee')
 st.write('## raw')
 view
 st.write('## bar chart')
