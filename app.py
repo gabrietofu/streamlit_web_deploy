@@ -19,6 +19,7 @@ st.text('일반적인 텍스트를 입력해보았습니다.')
 st.markdown('streamlit은 **마크다운 문법을 지원**합니다.')
 st.markdown('텍스트의 색상을 :green[초록색]으로, 그리고 **:red[빨간색]** 볼드체로 설정할 수 있습니다. ')
 st.markdown(":green[$\sqrt{x^2+y^w}=1$]")
+st.text('이제부터 다시 입력하겠습니다._ver2.입니다.')
 
 # ECDF
 train_df = pd.read_csv('C:/Users/jeong hee lee/Desktop/심화 프로젝트/train_flattened.csv')
